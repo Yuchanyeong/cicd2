@@ -6,5 +6,5 @@ test("adds 1 + 2 to equal 3", () => {
 }) ;
 
 test("adds 100 - 50 to equal 150", () =>{
-    expect(abs(-100, -50)).toBe(150);
+    expect(abs(-100, -40)).toBe(140);
 }) ;
